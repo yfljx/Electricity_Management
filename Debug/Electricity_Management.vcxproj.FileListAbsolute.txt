@@ -1,0 +1,2 @@
+D:\Code\C++\Electricity_Management\Electricity_Management\Debug\Electricity_Management.exe
+D:\Code\C++\Electricity_Management\Electricity_Management\Debug\Electricity_Management.pdb
